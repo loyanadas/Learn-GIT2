@@ -1,3 +1,4 @@
-a = "Hello World !"
-b = "Hii"
-print(a)
+a = 89
+b = 56
+c = a * b
+print(c)
